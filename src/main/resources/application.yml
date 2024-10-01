@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: identity
+server:
+  port: 8080
+
+ci: 98795626
